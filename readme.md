@@ -1,7 +1,8 @@
-- 👋 Hi, I’m [@shaphil](https://github.com/Shaphil)
-- 👀 I’m interested in Backend development with Python, AI/ML, GoLang, JavaScript, Astronomy, Physics, Psychology, Biology, Chemistry, The Big Bang, Blackholes and everything else...
-- 🌱 I’m currently learning a lots of things. 
+- 👋 Hi, I’m [@shaphil](https://github.com/Shaphil) and I'm a software engineer.
+- 👀 I’m interested in Backend development with Python.
+- 🌱 I’m currently learning [Go](https://golang.org/). 
 - 💞️ I’m looking to get involved with the open source community.
+- 📝 Have a look at my blog, [blog.shaphil.me](https://blog.shaphil.me/).
 - 📫 Reach me via Twitter [@ShaphilMahmud](https://twitter.com/ShaphilMahmud)
 
 <!---
