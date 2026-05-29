@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning [Go](https://golang.org/), [Rust](https://www.rust-lang.org/), [FastAPI](https://fastapi.tiangolo.com/) and Lots of other things.
 - 💞️ I’m looking to get involved with the open source community.
 - 📝 Have a look at my blog, [https://shaphil.medium.com/](https://shaphil.medium.com/).
-- 📫 Reach me via Twitter [@ShaphilMahmud](https://twitter.com/ShaphilMahmud)
+- 📫 Reach me via X, [@ShaphilMahmud](https://x.com/ShaphilMahmud)
 - 🌐 Checkout my website, [https://shaphil.me](https://shaphil.me)
 
 <!---
