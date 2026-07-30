@@ -6,7 +6,7 @@
 - 💞️ I’m looking to get involved with the open source community.
 - 📝 Have a look at my blog, [https://shaphil.medium.com/](https://shaphil.medium.com/).
 - 📫 Reach me via X, [@ShaphilMahmud](https://x.com/ShaphilMahmud)
-- 🌐 Checkout my website, [https://shaphil.me](https://shaphil.me)
+- 🌐 Checkout my website, [https://shaphil.me](https://shaphil.me) or, [https://rs.shaphil.me](https://rs.shaphil.me)
 
 <!---
 shaphil/shaphil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
